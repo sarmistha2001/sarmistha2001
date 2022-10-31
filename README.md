@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sarmistha Satrusallya</h1>
-<h3 align="center">A Girl who loves to code</h3>
+<h3 align="center"> ❤️‍ A Girl who loves to code ❤️‍ </h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarmistha2001&label=Profile%20views&color=0e75b6&style=flat" alt="sarmistha2001" /> </p>
+   🌱 I’m looking for a frontend developer job.
 
-- 👨‍💻 All of my projects are available at [www]portfolio
+-  👨‍💻 All of my projects are available at   portfolio.
 
-- 📫 How to reach me **satrusallyasarmistha@gmail.com**
+- 💬 Ask me about  html,css,bootstrap.
+
+-  📫 How to reach me **satrusallyasarmistha@gmail.com**.
+
+- ⚡ Fun fact Chai tastes way better than Coffee .
+
+- 🗒️ Know about my skills and other informations  Resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
