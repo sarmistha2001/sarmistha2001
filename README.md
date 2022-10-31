@@ -1,3 +1,7 @@
+<img align="right" alt="coding" width="100%" height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"><br><br>
+
+<br><br>
+
 <h1 align="center">Hi 👋, I'm Sarmistha Satrusallya</h1>
 <h3 align="center"> ❤️‍ A Girl who loves to code ❤️‍ </h3>
 
