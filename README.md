@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarmistha Satrusallya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="C:\Users\HP\Pictures\download.jpg">
+<img align="right" alt="coding" width="400" src="C:\Users\HP\Pictures\Saved Pictures\gabi-d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarmistha2001&label=Profile%20views&color=0e75b6&style=flat" alt="sarmistha2001" /> </p>
 
