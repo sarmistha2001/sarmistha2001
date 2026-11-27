@@ -1,3 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 24" width="830" height="24" role="img" aria-label="divider"><defs><linearGradient id="d"><stop offset="0" stop-color="#F5A623" stop-opacity="0"/><stop offset=".5" stop-color="#F5A623"/><stop offset="1" stop-color="#F5A623" stop-opacity="0"/></linearGradient></defs>
-<rect x="40" y="11" width="750" height="2" fill="url(#d)"/>
-<g><animateTransform attributeName="transform" type="translate" values="40 12;790 12;40 12" dur="8s" repeatCount="indefinite"/><polygon points="0,-7 7,0 0,7 -7,0" fill="#FF7A59"/></g></svg>
