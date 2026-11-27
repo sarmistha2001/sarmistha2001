@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 120" width="830" height="120" role="img" aria-label="Open to frontend roles"><defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B1740"/><stop offset="1" stop-color="#2D1E5F"/></linearGradient></defs>
+<rect x="1" y="1" width="828" height="118" rx="16" fill="url(#f)"/>
+<text x="40" y="54" font-family="Georgia,'Times New Roman',serif" font-size="28" font-weight="700" fill="#FFF4E0">Open to frontend roles.</text>
+<text x="40" y="86" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#B9B3E6">Have a team or a project in mind? Let's talk.</text>
+<g transform="translate(640 60)"><circle r="7" fill="#2BB3A3"/><circle r="7" fill="none" stroke="#2BB3A3" stroke-width="2"><animate attributeName="r" values="7;22" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="2s" repeatCount="indefinite"/></circle></g>
+<text x="672" y="66" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#FFF4E0">Available now</text></svg>
